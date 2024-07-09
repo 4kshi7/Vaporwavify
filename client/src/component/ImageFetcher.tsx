@@ -151,7 +151,7 @@ const ImageFetcher: React.FC = () => {
                 <img
                   src="https://64.media.tumblr.com/3d5c5e633053aeb4cb1d7e5b29cad3c5/tumblr_penkczTZQS1xcd22go1_540.gif"
                   alt="placeholder"
-                  className="rounded-xl shadow-lg object-cover  h-[40vh] w-[40vh]  lg:h-[60vh] lg:w-[60vh] "
+                  className="rounded-xl shadow-lg object-cover  h-[40vh] w-[40vh]  lg:h-[53vh] lg:w-[53vh] "
                 />
               </div> // Blank placeholder div
             )}

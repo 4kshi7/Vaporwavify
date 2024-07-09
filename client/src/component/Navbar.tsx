@@ -5,8 +5,7 @@ const Navbar = () => {
   const navigate = useNavigate();
   return (
     <div
-      className=" fixed  z-[999] w-full px-[4.5vw] py-5 font-['Neue Montreal'] flex justify-between itema-center  
-      backdrop-blur  bg-transparent "
+      className=" fixed  z-[999] w-full px-[4.5vw] py-5 font-['Neue Montreal'] flex justify-between itema-center"
     >
       <div className="logo">
         <h1 className="font-semibold text-lg md:text-xl lg:text-2xl hover:scale-105 duration-150">
