@@ -1,6 +1,5 @@
 import { Context, Hono, Next } from "hono";
 
-// List of NSFW keywords to filter out
 const nsfwKeywords = [
   "nude",
   "sex",
